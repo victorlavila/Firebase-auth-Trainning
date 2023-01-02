@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545986267019",
+    "project_id": "my-login-23eef",
+    "storage_bucket": "my-login-23eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545986267019:android:0c6841747681617ad5918e",
+        "android_client_info": {
+          "package_name": "com.leo.mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545986267019-ak8igfh8okn2sh64kcf88b88ejpupf3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbO4TeXeIZZs6YOvs1BPbOBYwGC8xl9XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545986267019-ak8igfh8okn2sh64kcf88b88ejpupf3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
